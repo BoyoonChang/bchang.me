@@ -40,9 +40,6 @@ softSkills:
 - name: Team Work
   percentage: 85
   color: yellow
-- name: Self-Control
-  percentage: 95
-  color: pink
 - name: Positive Attitude
   percentage: 90
   color: green
