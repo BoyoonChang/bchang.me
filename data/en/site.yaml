@@ -8,6 +8,6 @@ description: Portfolio and personal blog of John Doe.
 # they will be separated by a divider from the main menus.
 customMenus:
 - name: CV
-  url: "C:\Users\boyoon\Dropbox\BoyoonChang_CV_032321"
+  url: /content/post/BoyoonChang_CV_032321.pdf
 - name: Projects
   url: /notes
