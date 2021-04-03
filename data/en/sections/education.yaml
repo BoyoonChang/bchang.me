@@ -48,7 +48,7 @@ degrees:
   timeframe: 2015-2017
   institution:
     name: Korea University
-    url: "#"
+    url: "http://econ.korea.ac.kr/econ/?page_id=57180&lang=en"
   grade: #(optional)
     scale: GPA
     achieved: 3.89
@@ -61,6 +61,7 @@ degrees:
   timeframe: 2008-2014
   institution:
     name: Korea University
+    url: "https://biz.korea.ac.kr/eng/main/main.html"
   grade: #(optional)
     scale: GPA
     achieved: 3.89
