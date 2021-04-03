@@ -12,7 +12,7 @@ designation: Ph.D. student
 # your company information
 company:
   name: University of Oregon
-  url: "https://economics.uoregon.edu/profiles/graduate-students/"
+  url: "https://economics.uoregon.edu/graduate-studies/"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/BoyoonChang_CV_032321.pdf"
