@@ -7,4 +7,6 @@ section:
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
-  
+
+accomplishments:
+- name: XXX
