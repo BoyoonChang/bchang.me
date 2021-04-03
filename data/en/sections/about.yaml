@@ -43,8 +43,14 @@ softSkills:
 - name: Self-Control
   percentage: 95
   color: pink
-- name: Positive attitude
+- name: Positive Attitude
   percentage: 90
   color: green
+- name: Presentation Skills
+  percentage: 98
+  color: sky
+- name: Critical Thinking
+  percentage: 95
+  color: orange
   
   
