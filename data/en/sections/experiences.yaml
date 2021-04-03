@@ -31,7 +31,7 @@ experiences:
     name: UNESCO, Regional Office for Science in Latin America and the Caribbean
     url: "https://en.unesco.org/fieldoffice/montevideo"
     location: Montevideo, Uruguay
-    overview: TEXT.
+    # overview: TEXT.
   positions:
   - designation: Intern
     start: Mar 2015
@@ -45,7 +45,7 @@ experiences:
     name: Arthur D. Little Consulting Firm
     url: "#"
     location: Seoul, Korea
-    overview: TEXT.
+    # overview: TEXT.
   positions:
   - designation: Intern
     start: Mar 2011
@@ -58,7 +58,7 @@ experiences:
     name: Institutional Shareholder Services
     url: "#"
     location: Seoul, Korea
-    overview: TEXT.
+    # overview: TEXT.
   positions:
   - designation: Intern
     start: Jan 2011
