@@ -10,54 +10,61 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: Capital Economic Consulting Group, Lee & Ko Law Firm
+    url: "http://www.leeko.com/newmain/index.do?lang=EN"
+    location: Seoul, Korea
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: Lee & Ko is one of Korea's premier full-service law firms. CECG engages in formulating relevant quantitative strategy of the case.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Research Associate
+    start: Jun 2017
+    end: Jul 2019
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
-
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    - Formulated analytic frameworks and quantitative arguments in support of clients and incorporated estimate results into legal briefs
+    - Cleaned firm-level raw data appropriate for analysis; examined data by providing descriptive statistics and relevant plots; applied multiple econometric/statistical methodologies to evaluate if the arguments are statistically significant; performed robustness test to verify consistency of the estimation results; delivered assessment results to senior economists and incorporated their feedback; integrated the client’s knowledge into the economic analysis
+    - Drafted economic analysis reports, and produced English version of economic expert reports submitted in legal proceedings
 
 - company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
-  positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
-    responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
-
-- company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    name: UNESCO, Regional Office for Science in Latin America and the Caribbean
+    url: "https://en.unesco.org/fieldoffice/montevideo"
+    location: Montevideo, Uruguay
+    overview: TEXT.
   positions:
   - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+    start: Mar 2015
+    end: Jul 2015
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Assessed annual reports and documentations of each potential contributor, whose values align with UNESCO LAC regional projects in progress; composed their profile lists to determine and select institutions that are most likely to fund for projects
+    - Drafted request for proposal including budgeting necessary direct and indirect expense for completion of Marine Spatial Planning project and adjusted the document format according to grant requirements for each potential donor entity such as foundations, private companies and development banks
+    - Proposed a guidance to strategic proposal for the first time at UNESCO regional office
+    
+- company:
+    name: Arthur D. Little Consulting Firm
+    url: "#"
+    location: Seoul, Korea
+    overview: TEXT.
+  positions:
+  - designation: Intern
+    start: Mar 2011
+    end: Jun 2011
+    responsibilities:
+    - Worked with consultants to compare regional innovation system across developed countries and to identify key trends of regional development policies
+    - Gathered relevant information on Korea’s regional development policy and formatted them in tables and presentation slides for consultants to formulate appropriate strategies for the client
+
+- company:
+    name: Institutional Shareholder Services
+    url: "#"
+    location: Seoul, Korea
+    overview: TEXT.
+  positions:
+  - designation: Intern
+    start: Jan 2011
+    end: Mar 2011
+    responsibilities:
+    - Analyzed annual general meeting of approximately 1000 Korean listed companies for institutional investors and corporations to make more informed investment decisions for the benefit of shareholders
+    - Engaged in meetings with investor relations officers of high-profile Korean listed companies to discuss shareholder meeting agenda items and corporate governance practice in general
+    
+    
