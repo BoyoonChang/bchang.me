@@ -6,9 +6,9 @@ description: Portfolio and personal website of Boyoon Chang.
 
 # specify the list of custom menus that you want to show in the top navbar.
 # they will be separated by a divider from the main menus.
-customMenus:
-- name: CV
-  url: /CV
-- name: Projects
-  url: /notes
-  
+# customMenus:
+# - name: CV
+#   url: /CV
+# - name: Projects
+#   url: /notes
+#   
