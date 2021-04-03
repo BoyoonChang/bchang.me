@@ -18,7 +18,7 @@ company:
 resume: "files/BoyoonChang_CV_032321.pdf"
 
 # a summary about you
-summary: 'I am a second year Ph.D. student at the University of Oregon. I am interested in empirical industrial organization, microeconmetrics, and enviromnetal economics. I have taken several courses related to these areas which includes Industrial Organization, Microeconometrics, and Data Science for Economists.'
+summary: 'I am a second year Ph.D. student at the University of Oregon. I am interested in empirical industrial organization, microeconmetrics, and enviromnetal economics. I have taken several courses related to these areas which include Industrial Organization, Microeconometrics, Environmental Economics, and Data Science for Economists.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -35,10 +35,16 @@ socialLinks:
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
 - name: Problem Solving
-  percentage: 85
+  percentage: 90
   color: blue
 - name: Team Work
-  percentage: 75
+  percentage: 85
   color: yellow
+- name: Self-Control
+  percentage: 95
+  color: pink
+- name: Positive attitude
+  percentage: 90
+  color: green
   
   
