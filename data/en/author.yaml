@@ -1,6 +1,6 @@
 # some information about you
 name: "Boyoon Chang"
-nickname: "BO"
+nickname: "Boyoon"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hi, I am"
 # image: "images/author/john.png"
@@ -11,7 +11,8 @@ contactInfo:
 
 # some summary about what you do
 summary:
+  - You can call me Bo!
   - I am an economist
   - I am interested in empirical research
   - I love swimming
-  - I love to work with some fun projects
+  - I love to work with some fun projects!
