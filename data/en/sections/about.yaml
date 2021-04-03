@@ -18,7 +18,7 @@ company:
 resume: "files/BoyoonChang_CV_032321.pdf"
 
 # a summary about you
-summary: 'I am a second year Ph.D. student at the University of Oregon. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: 'I am a second year Ph.D. student at the University of Oregon. My interests lie in empirical industrial organization and microeconmetrics. I have taken several courses related to these areas which includes Industrial Organization, Microeconometrics, and Data Science for Economists.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -27,7 +27,7 @@ socialLinks:
   icon: "fab fa-github"
   url: "https://www.github.com/bchang2"
 - name: LinkedIn
-  icon: "fab fa-linkedin-square"
+  icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/boyoon-chang"
 
 # your soft skills
