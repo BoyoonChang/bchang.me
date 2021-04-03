@@ -18,25 +18,25 @@ degrees:
     scale: GPA
     achieved: 3.84
     outOf: 4
-    takenCourses: #(optional)
-    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
-    showGrades: true
-    courses:
-    - name: Industrial Organization
-      achieved: 4.3
-      outOf: 4
-    - name: Data Science
-      achieved: 4
-      outOf: 4
-    - name: Micro Econometrics
-      achieved: 4
-      outOf: 4
-    - name: Time Series
-      achieved: 4
-      outOf: 4
-    - name: Behavioral Economics
-      achieved: 4
-      outOf: 4
+  takenCourses: #(optional)
+  # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+  showGrades: true
+  courses:
+  - name: Industrial Organization
+    achieved: 4.3
+    outOf: 4
+  - name: Data Science
+    achieved: 4
+    outOf: 4
+  - name: Micro Econometrics
+    achieved: 4
+    outOf: 4
+  - name: Time Series
+    achieved: 4
+    outOf: 4
+  - name: Behavioral Economics
+    achieved: 4
+    outOf: 4
 - name: M.S. in Economics
   icon: fa-graduation-cap
   timeframe: 2019-2020
