@@ -41,13 +41,13 @@ softSkills:
   percentage: 90
   color: blue
 - name: Team Work
-  percentage: 80
+  percentage: 85
   color: yellow
 - name: Positive Attitude
-  percentage: 85
+  percentage: 95
   color: green
 - name: Critical Thinking
-  percentage: 85
+  percentage: 90
   color: orange
  
   
