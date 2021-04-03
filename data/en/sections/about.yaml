@@ -45,7 +45,7 @@ softSkills:
   color: green
 - name: Public Speaking
   percentage: 98
-  color: sky
+  color: pink
 - name: Critical Thinking
   percentage: 95
   color: orange
