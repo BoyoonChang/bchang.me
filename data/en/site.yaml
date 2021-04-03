@@ -2,12 +2,13 @@
 copyright: © 2020 Copyright.
 
 # Meta description for your site.  This will help the search engines to find your site.
-description: Portfolio and personal blog of John Doe.
+description: Portfolio and personal website of Boyoon Chang.
 
 # specify the list of custom menus that you want to show in the top navbar.
 # they will be separated by a divider from the main menus.
 customMenus:
 - name: CV
-  url: /content/post/BoyoonChang_CV_032321.pdf
+  url: /CV
 - name: Projects
   url: /notes
+  
