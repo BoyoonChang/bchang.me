@@ -21,7 +21,7 @@ markup:
 enableEmoji: true
 
 # Site parameters
-# params:
+params:
   # GitHub repo URL of your site
   # gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
 
@@ -34,7 +34,7 @@ enableEmoji: true
   # Provide newsletter configuration. This feature hasn't been implemented yet.
   # Currently, you can just hide it from the footer.
   newsletter:
-    enable: true
+    enable: false
     
   projects:
     enable: true
