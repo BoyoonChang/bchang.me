@@ -9,6 +9,6 @@ description: Portfolio and personal website of Boyoon Chang.
 # customMenus:
 # - name: CV
 #   url: /CV
-# - name: Projects
-#   url: /notes
+- name: Projects
+  url: /notes
 #   
