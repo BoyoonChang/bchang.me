@@ -10,5 +10,5 @@ customMenus:
 # - name: CV
 #   url: /CV
 - name: Projects
-  url: /notes
+  url: /projects
 #   
