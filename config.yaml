@@ -35,6 +35,4 @@ params:
   # Currently, you can just hide it from the footer.
   newsletter:
     enable: false
-    
-  projects:
-    enable: true
+
