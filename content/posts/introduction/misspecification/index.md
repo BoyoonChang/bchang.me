@@ -5,7 +5,7 @@ description: One of the assignments completed in micro-econometrics course
 menu:
   sidebar:
     name: Random Assignment of Treatment
-    parent: Economic Questions
+    parent: econquestions
     identifier: post1
     weight: 10
 ---
