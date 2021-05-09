@@ -1,16 +1,16 @@
 ---
-title: "Introduction"
-date: 2020-06-08T08:06:25+06:00
-description: Introduction to Sample Post
+title: "Can non-random treatment become somehow random?"
+date: 2021-05-09
+description: One of the assignments completed in micro-econometrics course
 menu:
   sidebar:
-    name: Introduction
-    identifier: introduction
+    name: Random Assignment of Treatment
+    identifier: post1
     weight: 10
 ---
 
-Greeting! This is an introduction post. This post tests the followings:
+{{ if or .Params.math .Site.Params.math }}
+{{ partial "math.html" . }}
+{{ end }}
 
-- Hero image is in the same directory as the post.
-- This post should be at top of the sidebar.
-- Post author should be the same as specified in `author.yaml` file.
+$\phi$
