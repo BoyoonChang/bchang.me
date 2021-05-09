@@ -5,7 +5,7 @@ menu:
   sidebar:
     name: gmm
     identifier: posts-gmm
-    parent: Methods
+    parent: methods
     weight: 20
 ---
 

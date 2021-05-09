@@ -5,7 +5,7 @@ menu:
   sidebar:
     name: logit
     identifier: posts-logit
-    parent: Methods
+    parent: methods
     weight: 20
 ---
 
