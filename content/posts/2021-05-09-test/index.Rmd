@@ -2,9 +2,8 @@
 title: Test
 author: Boyoon
 date: '2021-05-09'
-slug: []
-categories: []
-tags: []
+categories: ["R"]
+tags: ["R Markdown", "plot", "regression"]
 draft: yes
 ---
 
