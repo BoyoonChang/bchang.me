@@ -8,9 +8,9 @@ menu:
     identifier: post1
     weight: 10
 ---
+{{< math.inline >}}
 
-{{ if or .Params.math .Site.Params.math }}
-{{ partial "math.html" . }}
-{{ end }}
+Inline math: \(\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…\)
 
-$\phi$
+{{}}
+Block math: $$ \varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } } $$
