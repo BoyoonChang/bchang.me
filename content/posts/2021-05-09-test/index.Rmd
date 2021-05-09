@@ -5,6 +5,12 @@ date: '2021-05-09'
 categories: ["R"]
 tags: ["R Markdown", "plot", "regression"]
 draft: yes
+menu:
+  sidebar:
+    name: treatment
+    identifier: posts-treatment
+    parent: Posts
+    weight: 20
 ---
 
 Test
