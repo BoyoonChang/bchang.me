@@ -15,7 +15,7 @@ company:
   url: "https://economics.uoregon.edu/graduate-studies/"
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/BoyoonChang_CV_032321.pdf"
+resume: 
 
 # a summary about you
 summary: 'I am a second year Ph.D. student at the University of Oregon. I am interested in empirical industrial organization, microeconometrics, and environmental economics.'
