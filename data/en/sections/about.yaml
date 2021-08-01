@@ -26,6 +26,9 @@ socialLinks:
 - name: Github
   icon: "fab fa-github"
   url: "https://www.github.com/bchang2"
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/boyoon-c"
 - name: LinkedIn
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/boyoon-chang"
