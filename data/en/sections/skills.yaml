@@ -12,17 +12,17 @@ section:
 # Give a summary of you each skill in the summary section.
 skills:
 - name: Julia
-  summary: "Capable of using Julia for formulating functions necessary to run a model."
+  summary: "Capable of using Julia for formulating functions necessary to run a model"
 
 - name: R
   summary: "Using R as a main tool to analyze data and conducting quantitative analysis"
 
 - name: Javascript, HTML, CSS
-  summary: "Used them to build several applications"
+  summary: "Use them to build several web applications including memory game, movie-goose, and boardom. See the projects section the deployed versions of them"
 
 - name: Mac OS, Windows
   summary: "Using both Mac OS and Windows as the main operating system."
 
 - name: Git
-  summary: "Experienced with git-based development."
+  summary: "Experienced with working git-based development of projects."
 
