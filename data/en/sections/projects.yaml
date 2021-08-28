@@ -25,7 +25,7 @@ projects:
   role: Creator and developer
   timeline: "July 2021"
   repo: https://github.com/boyoon-c/movieGoose # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  url: "movie-goose.herokuapp.com"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: A web application that allows users to leave ratings and comments to the movies that they watched.
   tags: ["professional", "hobby"]
 
@@ -33,8 +33,16 @@ projects:
   role: Creator and developer
   timeline: "Aug 2021"
   repo: https://github.com/boyoon-c/boardom
-  #url: ""
+  url: "http://boardom.herokuapp.com/"
   summary: A web application for anyone who needs activity recommendations to do in their spare times.
+  tags: ["professional", "hobby"]
+
+- name: readuck
+  role: Creator and developer
+  timeline: "Aug 2021"
+  #repo: 
+  #url: "http://boardom.herokuapp.com/"
+  summary: To be updated
   tags: ["professional", "hobby"]
 
 - name: Price and Output Elasticities of Energy Demand for Industrial Sectors in OECD Countries 
