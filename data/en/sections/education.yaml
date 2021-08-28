@@ -16,12 +16,15 @@ degrees:
     url: "https://economics.uoregon.edu/graduate-studies/"
   grade: #(optional)
     scale: GPA
-    achieved: 3.84
-    outOf: 4
+    achieved: 3.88
+    outOf: 4.0
   takenCourses: #(optional)
   # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
     showGrades: true
     courses:
+    - name: Computational Economics
+      achieved: 4.3
+      outOf: 4
     - name: Industrial Organization
       achieved: 4.3
       outOf: 4
