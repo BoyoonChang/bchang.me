@@ -24,6 +24,5 @@ skills:
   summary: "Using both Mac OS and Windows as the main operating system."
 
 - name: Git
-  logo: /images/sections/skills/git.png
   summary: "Experienced with git-based development."
 
