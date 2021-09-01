@@ -4,7 +4,7 @@ date: 2021-05-09
 description: One of the assignments completed in micro-econometrics course
 menu:
   sidebar:
-    name: Random Assignment of Treatment
+    name: Random Treatment
     parent: econquestions
     identifier: post1
     weight: 10
