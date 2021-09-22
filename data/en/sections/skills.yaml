@@ -11,18 +11,30 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
+
+- name: Javascript, HTML, CSS
+  summary: "Use them to build several web applications including memory game, movie-goose, and boardom. See the projects section the deployed versions of them"
+
+- name: MongoDB, PostgreSQL
+  summary: "Use them to store, retrieve, and manage data"
+
+- name: React.js
+  summary: "Use it to build front-end of the web application, Boardom"
+  
+- name: Node.js
+  summary: "Use it to build back-end of the web application, Boardom, movie-goose, readuck"
+  
+- name: Mac OS, Windows
+  summary: "Using both Mac OS and Windows as the main operating system."
+
+- name: Git
+  summary: "Experienced with working git-based development of projects."
+
+
 - name: Julia
   summary: "Capable of using Julia for formulating functions necessary to run a model"
 
 - name: R
   summary: "Using R as a main tool to analyze data and conducting quantitative analysis"
 
-- name: Javascript, HTML, CSS
-  summary: "Use them to build several web applications including memory game, movie-goose, and boardom. See the projects section the deployed versions of them"
-
-- name: Mac OS, Windows
-  summary: "Using both Mac OS and Windows as the main operating system."
-
-- name: Git
-  summary: "Experienced with working git-based development of projects."
 
