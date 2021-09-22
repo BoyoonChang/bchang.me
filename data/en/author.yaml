@@ -10,6 +10,22 @@ contactInfo:
   url: https://github.com/boyoon-c
   linkedIn: "https://www.linkedin.com/in/boyoon-chang"
 
+socialLinks:
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/bchang2"
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/boyoon-c"
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/boyoon-chang"
+- name: Email
+  icon: "fas fa-envelope"
+  url: "bchang@uoregon.edu"
+
+
+
 # some summary about what you do
 summary:
   - You can call me Bo!
