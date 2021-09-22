@@ -32,15 +32,16 @@ projects:
 - name: Boardom
   role: Creator and developer
   timeline: "Aug 2021"
-  #repo: https://github.com/boyoon-c/boardom
-  url: "http://boardom.herokuapp.com/"
+  repo: https://github.com/boyoon-c/boardom
+  #url: "http://boardom.herokuapp.com/"
   summary: A web application for anyone who needs activity recommendations to do in their spare times.
   tags: ["nodejs", "reactjs"]
 
 - name: readuck
   role: Creator and developer
   timeline: "Sep 2021"
-  url: "https://readuck.herokuapp.com/"
+  repo: https://github.com/boyoon-c/readuck
+  #url: "https://readuck.herokuapp.com/"
   sumamry: A web application for scholars and researchers to communicate each other about articles that they read.
   tags: ["django"]
 
