@@ -1,0 +1,18 @@
+# section information
+section:
+  name: Research
+  id: research
+  enable: true
+  weight: 6
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+- name: Price and Output Elasticities of Energy Demand for Industrial Sectors in OECD Countries 
+  role: First author
+  timeline: "Feb 2019"
+  url: "https://www.mdpi.com/2071-1050/11/6/1786/htm"
+  summary: We use 274 industry panel data across 20 Organization for Economic Cooperation and Development (OECD) countries from 1978 to 2013, to find the energy demand from energy-intensive industries to be less price elastic compared to the energy demand from industries that are less energy-intensive. Such finding could be attributed to these industries' higher dependency of the energy resource as well as the limited availability of substitutes that could replace energy when energy price increases/decreases. 
+  tags: ["academic","energy demand", "price elasticity", "output elasticity", "industry sectors"]
+
+
