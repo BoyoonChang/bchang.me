@@ -11,13 +11,13 @@ section:
 # filter buttons
 buttons:
 - name: All
- filter: "all"
+  filter: "all"
 - name: Node.js
- filter: "nodejs"
+  filter: "nodejs"
 - name: React.js
- filter: "reactjs"
+  filter: "reactjs"
 - name: Django
- filter: "django"
+  filter: "django"
 
 # your projects
 projects:
