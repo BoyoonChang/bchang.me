@@ -42,7 +42,7 @@ projects:
   timeline: "Sep 2021"
   repo: https://github.com/boyoon-c/readuck
   #url: "https://readuck.herokuapp.com/"
-  sumamry: A web application for scholars and researchers to communicate each other about articles that they read.
+  summary: A web application for scholars and researchers to communicate each other about articles that they read.
   tags: ["django"]
 
 
