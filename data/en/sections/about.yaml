@@ -18,39 +18,37 @@ company:
 resume: "files/Boyoon_CV_SEI.pdf"
 
 # a summary about you
-summary: 'I am looking for an internship position for software engineering field that may also require economic analysis. I am currently a third year Ph.D. student at the University of Oregon, interested in empirical analysis and microeconometrics.'
+summary: "I am looking for an internship position that involves working with large sets of data and conduct quantitative analysis. I am currently a third year Ph.D. student at the University of Oregon, interested in optimization and computational economics."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
-- name: Github
-  icon: "fab fa-github"
-  url: "https://www.github.com/boyoon-c"
-- name: LinkedIn
-  icon: "fab fa-linkedin"
-  url: "https://www.linkedin.com/in/boyoon-chang"
-- name: Email
-  icon: "fas fa-envelope"
-  url: "bchang@uoregon.edu"
+  - name: Github
+    icon: "fab fa-github"
+    url: "https://www.github.com/boyoon-c"
+  - name: LinkedIn
+    icon: "fab fa-linkedin"
+    url: "https://www.linkedin.com/in/boyoon-chang"
+  - name: Email
+    icon: "fas fa-envelope"
+    url: "bchang@uoregon.edu"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
-- name: Public Speaking
-  percentage: 95
-  color: pink 
-- name: Problem Solving
-  percentage: 90
-  color: blue
-- name: Team Work
-  percentage: 85
-  color: yellow
-- name: Positive Attitude
-  percentage: 95
-  color: green
-- name: Critical Thinking
-  percentage: 90
-  color: orange
- 
-  
+  - name: Public Speaking
+    percentage: 95
+    color: pink
+  - name: Problem Solving
+    percentage: 90
+    color: blue
+  - name: Team Work
+    percentage: 85
+    color: yellow
+  - name: Positive Attitude
+    percentage: 95
+    color: green
+  - name: Critical Thinking
+    percentage: 90
+    color: orange
