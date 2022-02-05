@@ -15,7 +15,7 @@ company:
   url: "https://economics.uoregon.edu/graduate-studies/"
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/Boyoon_CV_SEI.pdf"
+resume: "files/Boyoon_CV(8).pdf"
 
 # a summary about you
 summary: "I am looking for an internship position that involves working with large sets of data and conducting quantitative analysis. I am currently a third year Ph.D. student at the University of Oregon, interested in optimization and computational economics."
@@ -38,17 +38,17 @@ socialLinks:
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
   - name: Public Speaking
-    # percentage: 95
-    # color: pink
+    percentage: 95
+    color: pink
   - name: Problem Solving
-    # percentage: 90
-    # color: blue
+    percentage: 90
+    color: blue
   - name: Team Work
-    # percentage: 85
-    # color: yellow
+    percentage: 85
+    color: yellow
   - name: Positive Attitude
-    # percentage: 95
-    # color: green
+    percentage: 95
+    color: green
   - name: Critical Thinking
-    # percentage: 90
-    # color: orange
+    percentage: 90
+    color: orange
